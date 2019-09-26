@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569487319603.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7E229937",
+    "lastKnownWriteTime" : 1569487464,
+    "last_content_update" : 1569487464810,
+    "path" : "~/academic-site/content/home/talks.md",
+    "project_path" : "content/home/talks.md",
+    "properties" : {
+        "cursorPosition" : "6,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

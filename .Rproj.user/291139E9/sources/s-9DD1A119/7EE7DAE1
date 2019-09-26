@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569487281380.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7EE7DAE1",
+    "lastKnownWriteTime" : 1569487374,
+    "last_content_update" : 1569487374483,
+    "path" : "~/academic-site/content/home/featured.md",
+    "project_path" : "content/home/featured.md",
+    "properties" : {
+        "cursorPosition" : "7,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

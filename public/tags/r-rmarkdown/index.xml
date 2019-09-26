@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R, Rmarkdown | </title>
+    <link>/tags/r-rmarkdown/</link>
+      <atom:link href="/tags/r-rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>R, Rmarkdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R, Rmarkdown</title>
+      <link>/tags/r-rmarkdown/</link>
+    </image>
+    
+    <item>
+      <title>Regable</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Description of &lt;code&gt;regable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

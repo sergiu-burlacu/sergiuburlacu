@@ -1,0 +1,44 @@
+---
+abstract: 'Imposing "sin" taxes has been the preferred way governments tried to discourage the over-consumption of temptation (addictive goods) for decades. While traditionally such taxes addressed tobacco and alcohol, in recent years the debate shifted towards taxing also unhealthy foods. Such taxes are based on the premise that individuals may suffer from various behavioral biases which impedes them from acting in ways such that they would not impose harm on their future self or on society. This paper investigates a potential bias and how it affects demand for temptation: financial worries associated with poverty have been shown to shift attention towards pressing needs, often at the expense of forward looking decisions. In an online experiment with UK participants, we randomly induce financial worries and ask participants to allocate a budget between basic necessities and temptation goods in an experimental market. We randomly impose "taxes" on temptation by increasing its price. We find that, in the absence of any tax, inducing financial worries lowers demand for temptation, effect stronger for lower income participants. However, when financial concerns are salient, increasing the tax does not lower demand among lower-income participants. While financial worries protect against over-consumption of temptation in the absence of tax changes, they hurt the poor the most when additional taxes are introduced. '
+authors:
+- admin
+- Austėja Kažemekaitytė
+- Piero Ronzani
+- Lucia Savadori
+date: "2019-04-07T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+# links:
+# - name: Custom Link
+#   url: http://example.org
+# projects:
+# - internal-project
+publication: ""
+publication_short: ""
+publication_types:
+- "3"
+publishDate: "2017-01-01T00:00:00Z"
+# slides: example
+summary:
+tags:
+- Source Themes
+title: 'Blinded by worries: sin taxes and demand for temptation under financial worries'
+# url_code: '#'
+# url_dataset: '#'
+url_pdf: https://drive.google.com/open?id=1ne5pfb-H5oTNCb89Le9AWQuAEgoZpDsd
+# url_poster: '#'
+# url_project: ""
+# url_slides: ""
+# url_source: '#'
+# url_video: '#'
+---
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
